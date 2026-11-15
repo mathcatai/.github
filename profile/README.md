@@ -10,7 +10,6 @@ Learn from Kindergarten to AP Calculus with Luna, your MathCat study companion. 
   <a href="https://apps.apple.com/us/app/mathcat-ai-math-tutor/id6782168411"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40" alt="Download MathCat: AI Math Tutor on the App Store"></a>
   &nbsp;&nbsp;
   <a href="https://mathcat.ai"><img src="https://avatars.githubusercontent.com/u/356872799?s=200&v=4" width="40" height="40" alt="MathCat website"></a>
-  <a href="https://mathcat.ai"><strong>MathCat Web</strong></a>
 </p>
 
 ## Follow MathCat
